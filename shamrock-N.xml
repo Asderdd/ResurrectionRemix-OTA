@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <shamrock>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161125-shamrock</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download ResurrectionRemix builds">https://basketbuild.com/filedl/devs?dev=resurrectionremix&dl=resurrectionremix/shamrock/ResurrectionRemix-N-v5.8.0-20161125-shamrock.zip</RomUrl>
+              <Firmware1Url
+                id="firmware1"
+                title="Recommended Vendor Image"
+                description="Download N3E92 vendor image for shamrock">https://www.androidfilehost.com/?fid=457095661767102677</Firmware1Url>
+              <Firmware2Url
+                id="firmware2"
+                title="Recommended Modem Image"
+                description="Download v14.20 modem image for shamrock">https://www.androidfilehost.com/?fid=529152257862668718</Firmware2Url>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://github.com/ResurrectionRemix/android_vendor_resurrection/blob/nougat/CHANGELOG.mkdn</ChangelogUrl>
+           <OpenGappsUrl
+            	id="open_gapps"
+            	title="Open Gapps"
+            	description="Download Open latest GApps">http://opengapps.org</OpenGappsUrl>
+		</shamrock>
+	</Stable>
+</SlimOTA>
