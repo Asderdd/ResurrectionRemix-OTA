@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <shamrock>
-            <Filename>ResurrectionRemix-N-v5.8.0-20161207-shamrock</Filename>
+            <Filename>ResurrectionRemix-N-v5.8.0-20161209-shamrock</Filename>
             <RomUrl
                 id="rom"
                 title="Download Lastest Build"
-                description="ResurrectionRemix-N-v5.8.0-20161207-shamrock.zip">https://basketbuild.com/uploads/devs/resurrectionremix/shamrock/ResurrectionRemix-N-v5.8.0-20161207-shamrock.zip</RomUrl>
+                description="ResurrectionRemix-N-v5.8.0-20161209-shamrock.zip">https://basketbuild.com/uploads/devs/resurrectionremix/shamrock/ResurrectionRemix-N-v5.8.0-20161209-shamrock.zip</RomUrl>
               <Firmware1Url
                 id="firmware1"
                 title="Recommended Vendor Image"
