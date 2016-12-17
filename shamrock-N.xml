@@ -6,7 +6,7 @@
             <RomUrl
                 id="rom"
                 title="Download Lastest Build"
-                description="ResurrectionRemix-N-v5.8.0-20161216-shamrock.zip">https://basketbuild.com/uploads/devs/resurrectionremix/shamrock/ResurrectionRemix-N-v5.8.0-20161216-shamrock.zip</RomUrl>
+                description="ResurrectionRemix-N-v5.8.0-20161216-shamrock.zip">http://downloads.resurrectionremix.com/shamrock/ResurrectionRemix-N-v5.8.0-20161216-shamrock.zip</RomUrl>
               <Firmware1Url
                 id="firmware1"
                 title="Recommended Vendor Image"
