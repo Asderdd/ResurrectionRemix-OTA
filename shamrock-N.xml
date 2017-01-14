@@ -2,19 +2,19 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <shamrock>
-            <Filename>RR-N-v5.8.0-20170112-shamrock-Nightly</Filename>
+            <Filename>RR-N-v5.8.0-20170113-shamrock-Nightly</Filename>
             <RomUrl
                 id="rom"
                 title="Download Lastest Build"
-                description="RR-N-v5.8.0-20170112-shamrock-Nightly.zip">http://downloads.resurrectionremix.com/shamrock/Nougat/RR-N-v5.8.0-20170112-shamrock-Nightly.zip</RomUrl>
+                description="RR-N-v5.8.0-20170113-shamrock-Nightly.zip">http://downloads.resurrectionremix.com/shamrock/Nougat/RR-N-v5.8.0-20170113-shamrock-Nightly.zip</RomUrl>
               <Firmware1Url
                 id="firmware1"
                 title="Recommended Vendor Image"
-                description="Download N3F55 vendor image for shamrock">https://www.androidfilehost.com/?fid=385035244224405985</Firmware1Url>
+                description="Download N3G06 vendor image for shamrock">https://www.androidfilehost.com/?fid=673368273298923637</Firmware1Url>
               <Firmware2Url
                 id="firmware2"
                 title="Recommended Modem Image"
-                description="Download v14.20 modem image for shamrock">https://www.androidfilehost.com/?fid=529152257862668718</Firmware2Url>
+                description="Download v14.21 modem and v1210.15 bootloader update for shamrock">https://www.androidfilehost.com/?fid=529152257862695398</Firmware2Url>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
