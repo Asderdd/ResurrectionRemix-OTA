@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <shamrock>
-            <Filename>RR-N-v5.8.0-20170121-shamrock-Nightly</Filename>
+            <Filename>RR-N-v5.8.2-20170304-shamrock-Nightly</Filename>
             <RomUrl
                 id="rom"
                 title="Download Lastest Build"
-                description="RR-N-v5.8.0-20170121-shamrock-Nightly.zip">http://downloads.resurrectionremix.com/shamrock/Nougat/RR-N-v5.8.0-20170121-shamrock-Nightly.zip</RomUrl>
+                description="RR-N-v5.8.2-20170304-shamrock-Nightly.zip">https://sourceforge.net/projects/resurrectionremix/files/shamrock/Nougat/RR-N-v5.8.2-20170304-shamrock-Nightly.zip/download</RomUrl>
               <Firmware1Url
                 id="firmware1"
                 title="Recommended Vendor Image"
@@ -26,3 +26,4 @@
 		</shamrock>
 	</Stable>
 </SlimOTA>
+
